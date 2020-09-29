@@ -1,0 +1,12 @@
+{
+  "name": "macdeliverysl",
+  "displayName": "macdeliverysl",
+  "expo": {
+    "name": "macdeliverysl",
+    "slug": "macdeliverysl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
